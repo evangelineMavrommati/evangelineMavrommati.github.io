@@ -7,7 +7,7 @@
   typed: true
 - key: resume
   value: EvangelineMavrommati.pdf
-  url: _data/EvangelineMavrommati.pdf
+  url: EvangelineMavrommati.pdf
 - key: contact
   value:
     - key: phone
