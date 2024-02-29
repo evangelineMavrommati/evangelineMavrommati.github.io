@@ -1,5 +1,5 @@
 - key: name
-  value: Evangeline Mavrommati
+  value: Evangeline Mavrommati 🌱
 - key: description
   value:
     - Software Developer
@@ -8,6 +8,11 @@
 - key: resume
   value: EvangelineMavrommati.pdf
   url: EvangelineMavrommati.pdf
+- key: about me 
+  value:
+    - 85% success rate on Wordle
+    - "23/24 Champion's League winner prediction: Inter Milan"
+    - "Favorite beer: Pinthouse's Electric Jellyfish"
 - key: contact
   value:
     - key: phone
