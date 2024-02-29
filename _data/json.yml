@@ -1,0 +1,22 @@
+- key: name
+  value: Evangeline Mavrommati
+- key: description
+  value:
+    - Software Developer
+    - Austin, TX
+  typed: true
+- key: resume
+  value: EvangelineMavrommati.pdf
+  url: _data/EvangelineMavrommati.pdf
+- key: contact
+  value:
+    - key: phone
+      value: +1 281 683 6839
+    - key: email
+      value: emavro19@gmail.com
+- key: profiles
+  value:
+    - value: LinkedIn
+      url: https://www.linkedin.com/in/evangeline-mavrommati-a83658169/
+    - value: GitHub
+      url: https://github.com/evangelineMavrommati
