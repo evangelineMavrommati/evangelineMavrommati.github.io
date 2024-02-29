@@ -1,4 +1,4 @@
 baseurl: ""
 url: https://evangelinemavrommati.github.io/
 
-remote_theme: hacked-jekyll
+remote_theme: piazzai/hacked-jekyll
