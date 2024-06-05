@@ -5,8 +5,3 @@ remote_theme: piazzai/hacked-jekyll
 
 show_quotes: true
 show_commas: true
-
-color_bg: var(--oc-gray-9)
-color_keyval: var(--oc-indigo-4)
-color_punct: var(--oc-indigo-9)
-color_hover: var(--oc-blue-2)
