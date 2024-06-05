@@ -5,3 +5,4 @@ remote_theme: piazzai/hacked-jekyll
 
 show_quotes: true
 show_commas: true
+lowercase: false
